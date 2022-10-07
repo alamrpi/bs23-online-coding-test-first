@@ -1,0 +1,15 @@
+F:\ASP\BS23-first\BS23-first\bin\Debug\net6.0\BS23-first.exe
+F:\ASP\BS23-first\BS23-first\bin\Debug\net6.0\BS23-first.deps.json
+F:\ASP\BS23-first\BS23-first\bin\Debug\net6.0\BS23-first.runtimeconfig.json
+F:\ASP\BS23-first\BS23-first\bin\Debug\net6.0\BS23-first.dll
+F:\ASP\BS23-first\BS23-first\bin\Debug\net6.0\BS23-first.pdb
+F:\ASP\BS23-first\BS23-first\obj\Debug\net6.0\BS23-first.csproj.AssemblyReference.cache
+F:\ASP\BS23-first\BS23-first\obj\Debug\net6.0\BS23-first.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP\BS23-first\BS23-first\obj\Debug\net6.0\BS23-first.AssemblyInfoInputs.cache
+F:\ASP\BS23-first\BS23-first\obj\Debug\net6.0\BS23-first.AssemblyInfo.cs
+F:\ASP\BS23-first\BS23-first\obj\Debug\net6.0\BS23-first.csproj.CoreCompileInputs.cache
+F:\ASP\BS23-first\BS23-first\obj\Debug\net6.0\BS23-first.dll
+F:\ASP\BS23-first\BS23-first\obj\Debug\net6.0\refint\BS23-first.dll
+F:\ASP\BS23-first\BS23-first\obj\Debug\net6.0\BS23-first.pdb
+F:\ASP\BS23-first\BS23-first\obj\Debug\net6.0\BS23-first.genruntimeconfig.cache
+F:\ASP\BS23-first\BS23-first\obj\Debug\net6.0\ref\BS23-first.dll
