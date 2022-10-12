@@ -2,21 +2,6 @@
 {
     public class ATheBigInteger
     {
-        public Int32 GetNthFibonacciNumber(int n)
-        {
-            if (n == 1)
-                return 1;
-            int number = n - 1; //Need to decrement by 1 since we are starting from 0  
-            int[] Fib = new int[number + 1];
-            Fib[0] = 0;
-            Fib[1] = 1;
-            for (int i = 2; i <= number; i++)
-            {
-                Fib[i] = Fib[i - 2] + Fib[i - 1];
-            }
-            return Fib[number];
-        }
-
         public void Solution()
         {
             int testCase = int.Parse(Console.ReadLine());
@@ -52,9 +37,7 @@
                 Console.WriteLine($"Case {i + 1}");
                 Console.WriteLine($"Odd = {oddNumber}");
                 Console.WriteLine($"Even = {evenNumber}");
-
             }
-
             Console.ReadKey();
         }
     }
